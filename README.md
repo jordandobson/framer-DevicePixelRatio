@@ -50,4 +50,6 @@ Use this module to design in Framer at 1x and have your designs adjust for the P
       boxShadow: "inset -#{dpr 2}px #{dpr 2}px 0 #BCBCC1"
 ```
 
+***
+
 ###### Thanks to [Nikolay Berezovskiy](https://twitter.com/unikolas) for helping with the latest device updates to this module. :D
