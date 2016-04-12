@@ -9,7 +9,8 @@ This allows you to build fluid and adaptable prototypes in combination with the 
 Test the demo on a few devices and the sizes of elements should be nearly identical as you would expect. 
 
 [See the post about this module on FramerCo.de](http://jrdn.io/eANh)
-[See the post about this module on FramerJS Facebook Group](https://www.facebook.com/groups/framerjs/permalink/779107232216350/)
+
+[See the post about this module in the FramerJS Facebook Group](https://www.facebook.com/groups/framerjs/permalink/779107232216350/)
 
 ***
 
