@@ -16,7 +16,7 @@ Use this module to design in Framer at 1x and have your designs adjust for the P
  
  ```
   rect = new Layer
-    width:  dpr300
+    width:  dpr 300
     height: dpr 50
 ```
  4. Use it for more than layer size. Here's advanced usage for multi devices:
@@ -49,3 +49,5 @@ Use this module to design in Framer at 1x and have your designs adjust for the P
     style:
       boxShadow: "inset -#{dpr 2}px #{dpr 2}px 0 #BCBCC1"
 ```
+
+###### Thanks to [Nikolay Berezovskiy](https://twitter.com/unikolas) for helping with the latest device updates to this module. :D
