@@ -1,6 +1,14 @@
 # framer-DevicePixelRatio
 
-Use this module to design in Framer at 1x and have your designs adjust for the Pixel Ratio of the device.
+This module assists you in building prototypes @ 1x and adjusts the prototype using the Device Pixel Ratio of any device for values where you use the dpr() function in the module.
+
+This allows you to build fluid and adaptable prototypes in combination with the Screen.width & Screen.height values in Framer.
+
+**[Framer Demo Project](http://jrdn.io/ffzH)**
+
+Test the demo on a few devices and the sizes of elements should be nearly identical as you would expect. 
+
+***
 
 *To get started...*
 
@@ -51,5 +59,6 @@ Use this module to design in Framer at 1x and have your designs adjust for the P
 ```
 
 ***
+
 
 ###### Thanks to [Nikolay Berezovskiy](https://twitter.com/unikolas) for helping with the latest device updates to this module. :D
